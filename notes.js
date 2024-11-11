@@ -16,9 +16,16 @@
 // 2. Create a new cluster
 // 3. Create a new database
 // 4. Create a new user
-// 5. Whitelist your IP address
+// 5. Whitelist your IP address     // Allow access from anywhere
 
 // "engines": {
 //     "node": "20.17.0"
 //   },
 // engines defined in package.json due to render.com server, it uses node version 20.17.0
+
+
+
+// In render.com:
+// npm install  // for builtin command
+// node app.js  // for start command
+// Auto-Deploy: Select No
