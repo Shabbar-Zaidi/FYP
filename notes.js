@@ -29,3 +29,5 @@
 // npm install  // for builtin command
 // node app.js  // for start command
 // Auto-Deploy: Select No
+
+// Configuring MongoDB Atlas:
